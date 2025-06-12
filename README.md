@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I love you.</p>
+<h1>This is my portfolio website!</h1>
 </body>
 </html>
